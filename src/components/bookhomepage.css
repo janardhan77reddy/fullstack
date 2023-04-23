@@ -1,0 +1,14 @@
+.border {
+    border: 5px solid black;
+    display: inline-block;
+    margin-left: 100px;
+}
+
+
+
+.grid {
+    background-image: url('./photobooks.jpeg');
+    height: 400px;
+    width: 280px;
+
+}
